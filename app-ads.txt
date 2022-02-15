@@ -88,3 +88,15 @@ adtarget.com.tr, 306742, DIRECT
 admatic.com.tr, adm-pub-185375301865, DIRECT
 adform.com, 2600, DIRECT
 stroeer.com, 17938, DIRECT
+exchange.admazing.co, AM3, RESELLER
+pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
+bidmachine.io, 114, RESELLER
+bidmachine.io, 67, RESELLER
+mintegral.com, 10038, RESELLER
+criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
+loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
+meitu.com, 282, RESELLER
+yandex.com, 40427798, RESELLER
+inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
+liftoff.io, 7f6945815e6, RESELLER
