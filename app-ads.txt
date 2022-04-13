@@ -101,3 +101,5 @@ yandex.com, 40427798, RESELLER
 inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
 liftoff.io, 7f6945815e6, RESELLER
 yeahmobi.com, 5135195, RESELLER
+admixplay.com, 2012, RESELLER
+bidease.com, exchange-20, RESELLER
